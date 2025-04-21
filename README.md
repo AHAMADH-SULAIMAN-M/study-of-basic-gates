@@ -63,18 +63,22 @@ Y= A⊕B
 
 
 **PROGRAM**
+
 ![Screenshot 2025-04-21 193904](https://github.com/user-attachments/assets/521299c8-bb94-4a46-ac67-7aeb56a91688)
 
  Developed by: AHAMADH SULAIMAN M
  RegisterNumber: 212224230009
  
 **Logic symbol & Truthtable**
+
 ![WhatsApp Image 2025-04-21 at 14 41 54_0b9a9f86](https://github.com/user-attachments/assets/a4afa489-3249-4c0d-9a1a-d16a6e2075f4)
 
 **RTL realization Output:** 
+
 ![Screenshot 2025-04-21 143400](https://github.com/user-attachments/assets/b1261ed6-0dbc-4ed9-9415-17bbfefc4388)
 
 **RTL**
+
 ![Screenshot 2025-04-21 143342](https://github.com/user-attachments/assets/415c7730-d85d-4a2e-b245-2df141d1f912)
 
 **Result:**
